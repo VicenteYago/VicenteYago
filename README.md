@@ -1,6 +1,7 @@
 
 [![VicenteYAgo stats](https://github-readme-stats.vercel.app/api?username=VicenteYago&hide=stars&show_icons=true&theme=radical)](https://github.com/VicenteYago/github-readme-stats&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VicenteYago&hide=html&langs_count=10&layout=compact)](https://github.com/VicenteYago/github-readme-stats)
 
 <!--
 **VicenteYago/VicenteYAgo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
